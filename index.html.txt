@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HBS Auto Hire | London Car Hire</title>
+  <style>
+    * { margin:0; padding:0; box-sizing:border-box; }
+    body { background:#000; color:#fff; font-family:Arial, sans-serif; line-height:1.7; scroll-behavior:smooth; }
+    header { text-align:center; padding:60px 20px 40px; }
+    header img { max-width:320px; width:80%; height:auto; }
+    h1,h2 { text-align:center; margin-bottom:20px; letter-spacing:1px; }
+    p { color:#ccc; max-width:800px; margin:10px auto; text-align:center; }
+    section { padding:80px 20px; }
+    .services,.about,.contact { text-align:center; }
+    ul { list-style:none; padding:0; }
+    li { margin:10px 0; color:#ccc; font-size:1.1em; }
+    footer { background:#111; text-align:center; padding:20px; font-size:0.9em; color:#aaa; margin-top:50px; }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="logo.jpeg" alt="HBS Auto Hire Logo">
+  </header>
+
+  <section class="intro">
+    <h1>HBS Auto Hire</h1>
+    <p>Professional car hire services based in London. We provide reliable, high-quality vehicles suitable for every occasion — from everyday rentals to executive chauffeur experiences.</p>
+  </section>
+
+  <section class="services">
+    <h2>Our Hire Options</h2>
+    <ul>
+      <li>Courtesy Hire – temporary replacement vehicles while yours is unavailable</li>
+      <li>Birthday Hire – make your celebration extra special with a luxury car</li>
+      <li>Prom Hire – arrive in style with a professional, stylish vehicle</li>
+      <li>Daily Rental – simple, flexible car hire for day-to-day use</li>
+      <li>Executive Chauffeur – luxury transport with a professional driver</li>
+    </ul>
+  </section>
+
+  <section class="about">
+    <h2>About Us</h2>
+    <p>HBS Auto Hire is proudly based in London. We focus on offering a reliable and professional car rental experience for all our clients. Whether you need a short-term rental, a chauffeur-driven journey, or a special event car, we ensure a smooth and stress-free process from start to finish.</p>
+    <p>Our team is committed to providing vehicles that meet high standards of comfort and presentation, ensuring every customer receives the best experience possible.</p>
+  </section>
+
+  <section class="contact">
+    <h2>Contact & Enquiries</h2>
+    <p>If you have any enquiries, please email us at:</p>
+    <p><strong>hbsautohireteam@outlook.com</strong></p>
+    <p>Follow us on social media for updates and new vehicle arrivals:</p>
+    <p><strong>Instagram:</strong> @hbsautohire<br>
+       <strong>TikTok:</strong> @hbsautohire<br>
+       <strong>Snapchat:</strong> @hbsautohire
+    </p>
+  </section>
+
+  <footer>
+    <p>© 2025 HBS Auto Hire | Based in London</p>
+  </footer>
+</body>
+</html>
